@@ -1,0 +1,21 @@
+body {
+    padding: 10px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    padding: 20px;
+    color: brown;
+}
+
+#picture img {
+    padding: 20px;
+}
+
+p {
+    margin: 20px;
+}
